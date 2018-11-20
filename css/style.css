@@ -28,10 +28,10 @@ nav a:hover {
   background-color: #feb236;
 }
 h1 {
-  font-size: 3em;
-  display: table;
-  color: white;
-  font-weight: 300;
+  text-align: center;
+  margin-top: 80px;
+  margin-bottom: 50px;
+  font-size: 40px; 
 }
 body {
   margin: 0;
@@ -41,7 +41,6 @@ body {
 section {
   width: 100%;
   padding: 0 5%;
-  display: table;
   color: white;
   margin: 5px;
 }
@@ -55,7 +54,6 @@ p {
   color: #C3CAD9;
   margin-left: auto;
   margin-right: auto;
-  float: center;
 }
 img {
   float: center;
@@ -93,13 +91,15 @@ iframe {
 }
 .volunteer {
   font-family: 'Roboto Slab', serif;
-  color: #87bdd8 
+  color: #87bdd8;
+  text-align: center;
 }
 .interests {
   font-family: 'Roboto Slab', serif;
   font-size: 15pt;
   float: center;
 }
-
-
+.center {
+  text-align: center;
+}
 
