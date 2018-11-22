@@ -63,7 +63,6 @@ img {
   margin-bottom: 50px;
 }
 iframe {
-  float: center;
   height: 550px;
   width: 75%;
 }
@@ -73,7 +72,6 @@ iframe {
   font-size: 20px;
   margin-top: 80px;
   margin-bottom: 50px;
-  float: center;
 }
 .intro {
   font-family: 'Roboto Slab', serif;
@@ -115,8 +113,5 @@ iframe {
   font-family: 'Roboto Slab', serif;
   font-size: 15pt;
   float: center;
-}
-.center {
-  text-align: center;
 }
 
