@@ -112,6 +112,8 @@ iframe {
 .interests {
   font-family: 'Roboto Slab', serif;
   font-size: 15pt;
-  float: center;
+}
+.center {
+  text-align: center;
 }
 
